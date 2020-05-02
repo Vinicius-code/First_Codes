@@ -1,2 +1,2 @@
-#Linguagem: Python
+# Language: Python
 ## IDE: Google Colab - jupyter notebook
