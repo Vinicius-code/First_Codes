@@ -12,4 +12,4 @@ I'll registrate my progess here
 #Partiu!
 #NICE!
 
-https://medium.com/eudisse
+[Blog Eudisse](https://medium.com/eudisse)
