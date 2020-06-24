@@ -12,9 +12,12 @@ Sumário:
 ## 4. Inserir notas de acordo com matrícula
 ## 5. Calcular situação
 
-
-
-
+.
+.
+.
+.
+.
+.
 
 ## 1. Inserir dados com _Useform_
 
