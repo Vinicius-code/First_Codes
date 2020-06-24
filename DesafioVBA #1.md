@@ -84,7 +84,7 @@ Sub Macro4()
     
 _'Lógica do algoritmo: Filtrar a tabela base de alunos de acordo com uma condição._
 
-_'Copiar a tabela toda e colar na nova pasta de trabalho.  
+_'Copiar a tabela toda e colar na nova pasta de trabalho._  
 
 	Range("A1").Select
     	Selection.AutoFilter
