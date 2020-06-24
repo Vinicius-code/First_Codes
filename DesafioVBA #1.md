@@ -3,7 +3,7 @@ Sumário:
 
 # BaseAlunos
 
-[Inserir dados com Useform](## Inserir dados com _Useform_ )
+[Inserir dados com Useform](##Inserir dados com _Useform_)
 
 [Exportar dados para outra tabela](## Exportar dados para outra tabela)
 
@@ -19,7 +19,7 @@ Sumário:
 
 
 
-## Inserir dados com _Useform_ 
+## Inserir dados com _Useform_ <h2 id="Inserir dados com Useform">Inserir dados com _Useform_</h2>
 
 **Private Sub ToggleButton1_Click()**
 
