@@ -21,7 +21,7 @@ Sumário:
 
 ### 1. Inserir dados com _Useform_
 
-**Private Sub ToggleButton1_Click()**
+Private Sub ToggleButton1_Click()
 
 **'Primeiramente foi criado um UseForm nomeado de Cadastro**
 
@@ -82,9 +82,9 @@ Sumário:
 
 Sub Macro4()
     
-**'Lógica do algoritmo: Filtrar a tabela base de alunos de acordo com uma condição.**
+_'Lógica do algoritmo: Filtrar a tabela base de alunos de acordo com uma condição._
 
-**'Copiar a tabela toda e colar na nova pasta de trabalho.**  
+_'Copiar a tabela toda e colar na nova pasta de trabalho.  
 
 	Range("A1").Select
     	Selection.AutoFilter
