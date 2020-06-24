@@ -16,7 +16,7 @@ Sumário:
 
 
 
-## Inserir dados com _Useform_
+## 1. Inserir dados com _Useform_
 
 **Private Sub ToggleButton1_Click()**
 
@@ -74,7 +74,7 @@ Sumário:
 	End Sub
 
 
-## Exportar dados para outra tabela
+## 2. Exportar dados para outra tabela
 
 
 Sub Macro4()
@@ -128,7 +128,7 @@ Sub Macro4()
   
 	End Sub
 
-##Enumerar linhas
+## 3. Enumerar linhas
 
    **'Este procedimento atribui automaticamente um número de chamada para cada aluno cadastrado na primeira _
     célula de cada linha**
@@ -161,7 +161,7 @@ Sub Macro4()
     
 	End Sub
 
-## Inserir notas de acordo com matrícula
+## 4. Inserir notas de acordo com matrícula
 
 	Private Sub BotãoOk_Click()
 	    Dim turma As Range
@@ -213,7 +213,7 @@ Sub Macro4()
 
 
 
-## Calcular situação
+## 5. Calcular situação
 
 Sub Medias_Situacoes()
 
@@ -275,7 +275,6 @@ Sub Medias_Situacoes()
     End If
 End Sub
 
-[Início](Sumário:)
 
 
 
