@@ -1,25 +1,25 @@
 
 Sumário:
 
-#BaseAlunos
+# BaseAlunos
 
-[Inserir dados com Useform](##Inserir dados com _Useform_ )
+[Inserir dados com Useform](## Inserir dados com _Useform_ )
 
-[Exportar dados para outra tabela](##Exportar dados para outra tabela)
+[Exportar dados para outra tabela](## Exportar dados para outra tabela)
 
-#Notas Turmas
+# Notas Turmas
 
-[Enumerar linhas](##Enumerar linhas)
+[Enumerar linhas](## Enumerar linhas)
 
-[Inserir notas de acordo com matrícula](##Inserir notas de acordo com matrícula)
+[Inserir notas de acordo com matrícula](## Inserir notas de acordo com matrícula)
 
-[Calcular situação](##Calcular situação)
-
-
+[Calcular situação](## Calcular situação)
 
 
 
-##Inserir dados com _Useform_ 
+
+
+## Inserir dados com _Useform_ 
 
 **Private Sub ToggleButton1_Click()**
 
@@ -77,7 +77,7 @@ Sumário:
 	End Sub
 
 
-##Exportar dados para outra tabela
+## Exportar dados para outra tabela
 
 
 Sub Macro4()
@@ -164,7 +164,7 @@ Sub Macro4()
     
 	End Sub
 
-##Inserir notas de acordo com matrícula
+## Inserir notas de acordo com matrícula
 
 	Private Sub BotãoOk_Click()
 	    Dim turma As Range
@@ -216,7 +216,7 @@ Sub Macro4()
 
 
 
-##Calcular situação
+## Calcular situação
 
 Sub Medias_Situacoes()
 
