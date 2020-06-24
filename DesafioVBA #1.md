@@ -3,23 +3,23 @@ Sumário:
 
 # BaseAlunos
 
-[Inserir dados com Useform](##Inserir dados com _Useform_)
+[Inserir dados com Useform](Inserir dados com _Useform_)
 
-[Exportar dados para outra tabela](## Exportar dados para outra tabela)
+[Exportar dados para outra tabela](Exportar dados para outra tabela)
 
 # Notas Turmas
 
-[Enumerar linhas](## Enumerar linhas)
+[Enumerar linhas](Enumerar linhas)
 
-[Inserir notas de acordo com matrícula](## Inserir notas de acordo com matrícula)
+[Inserir notas de acordo com matrícula](Inserir notas de acordo com matrícula)
 
-[Calcular situação](## Calcular situação)
-
-
+[Calcular situação](Calcular situação)
 
 
 
-## Inserir dados com _Useform_ <h2 id="Inserir dados com Useform">Inserir dados com _Useform_</h2>
+
+
+## Inserir dados com _Useform_
 
 **Private Sub ToggleButton1_Click()**
 
