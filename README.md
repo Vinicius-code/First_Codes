@@ -14,11 +14,8 @@ I'll registrate my progess here
 
 [Blog Eudisse](https://medium.com/eudisse)
 
-003 (2).jpg
-Add files via upload
 
 
-
-![Screenshot](32264483720_431fde2b4d_o.png)
+![Screenshot](32264483720_ 431fde2b4d_o.png)
 
 
