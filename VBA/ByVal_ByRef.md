@@ -8,7 +8,7 @@ Sub CallingSub()
     MsgBox b
 
 End Sub
-----------------------------
+________
 Sub CalledSub(ByRef y, ByVal z)
 
     y = 100
@@ -17,6 +17,6 @@ Sub CalledSub(ByRef y, ByVal z)
     MsgBox z
     
 End Sub
------------------------------
+________
     ByVal = dentro da macro, a referencia usada, substituirá a da mesma Sub. Nesse caso z = b
     ByRef = o inverso da ByVal. Nesse caso a = y
