@@ -12,9 +12,11 @@ Next
 
 
 'SELECIONAR ABA 
+
 Worksheets("Sheet1").Activate
 
 
 
 'SALVAR ARQUIVO 
+
 ThisWorkbook.Save
