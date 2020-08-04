@@ -10,14 +10,14 @@ txB = 0.015
 
 'Soma +1 ano a cada vez que o Loop ocorre
 
-While A < B
-  
-  anos = anos + 1
-  A = A + (A * txA)
-  B = B + (B * txB)
+    While A < B
 
-Wend
+      anos = anos + 1
+      A = A + (A * txA)
+      B = B + (B * txB)
 
-Range("A13").Value = A
-Range("A14").Value = B
-Range("A15").Value = anos
+    Wend
+
+    Range("A13").Value = A
+    Range("A14").Value = B
+    Range("A15").Value = anos
