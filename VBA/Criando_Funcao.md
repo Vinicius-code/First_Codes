@@ -4,7 +4,7 @@ Converter Libra -> Quilograma
 1 lbs = 0,45359
 
 'Escrever diretamente na planilha
-Range("A1") = 0,4539 'fator conversão Kg
+ Range("A1") = 0,4539 'fator conversão Kg
 
 'VBA
 
