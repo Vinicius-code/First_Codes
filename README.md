@@ -13,6 +13,7 @@ I'll registrate my progess here
 #NICE!
 
 [Blog Eudisse](https://medium.com/eudisse)
+[Linkedin](https://www.linkedin.com/in/vinismaraujo/)
 
 
 
