@@ -12,7 +12,7 @@ I'll registrate my progess here
 #Partiu!
 #NICE!
 
-[Blog Eudisse](https://medium.com/eudisse)
+[Blog Eudisse](https://medium.com/eudisse) \n
 [Linkedin](https://www.linkedin.com/in/vinismaraujo/)
 
 
