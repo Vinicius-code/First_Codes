@@ -1,3 +1,6 @@
+![Foto1](Boletim_Automatizado.png)
+
+
 Sub Compilar()
 
 
@@ -17,6 +20,8 @@ Sub Compilar()
 
 'Agora o excel irá procurar em casa Aba os períodos adicionados com exceção da aba boletim
 
+![Foto2](Periodos.png)
+
     For Each aba In ThisWorkbook.Sheets
 
         If aba.Name <> "BOLETIM" Then
@@ -33,6 +38,8 @@ Sub Compilar()
         End If
     Next
  
+![Foto3](Periodo.png)
+
 
 'Aqui irá calcular a média ponderada = Somar produto dos créditos X notas e dividir pelo somatório dos créditos
  
