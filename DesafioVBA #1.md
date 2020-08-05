@@ -3,14 +3,26 @@ Sumário:
 
 # --> BaseAlunos
 
+![Foto1](BaseAlunos.png)
+
 #### 1. Inserir dados com Useform
+
+![Foto2](useform.png)
+
 #### 2. Exportar dados para outra tabela
 
 # --> Notas Turmas
 
+![Foto3](exportar.png)
+
 #### 3. Enumerar linhas
 #### 4. Inserir notas de acordo com matrícula
+
+![Foto4](inserirnota.png)
+
 #### 5. Calcular situação
+
+![Foto5](situacao.png)
 
 .
 
