@@ -18,6 +18,5 @@ I'll registrate my progess here
 
 
 
-![Screenshot](32264483720_ 431fde2b4d_o.png)
 
 
